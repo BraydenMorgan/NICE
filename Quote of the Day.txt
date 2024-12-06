@@ -1,0 +1,20 @@
+🚀 "Code is like humor—if you have to explain it, it’s broken." – Cory House
+🤔 "Fix the problem first. Code second." – John Johnson
+🔥 "Good code reads like poetry. Bad code feels like algebra class." – Inspired by Martin Fowler
+💡 "Write code for humans, not for robots. Robots don’t care anyway." – Harold Abelson
+🌟 "Be irreplaceable. Write code that turns heads." – Coco Chanel, but for devs
+😅 "Mistakes are just bugs in the system called experience." – Oscar Wilde
+✨ "Simplicity wins the race. Every. Single. Time." – Austin Freeman
+📚 "More knowledge, less spaghetti." – Francis Bacon(ish)
+💻 "If you love your code, it’ll love you back." – Steve Jobs vibes
+🌌 "Invent the future you want to debug." – Alan Kay, probably
+🎯 "Happiness is writing code that just… works." – Albert Schweitzer, tech edition
+⚔️ "Don’t wait for the moment. Create it with a pull request." – William Butler Yeats remix
+🌀 "Debug seven times. Refactor eight." – Japanese Proverb, dev mode
+🎨 "Creativity is just debugging with flair." – Einstein in the IDE
+🛠️ "Habit beats hustle. Build quality every day." – Aristotle’s dev manual
+🌈 "Optimism is a feature. Feedback is the patch." – Kent Beck dev wisdom
+📈 "A roadmap without commits is just a wish." – Antoine de Saint-Exupéry, repo-edition
+🔄 "Life’s about how you handle merge conflicts." – Charles R. Swindoll
+🕵️ "The code never lies. The comments? That’s another story." – Ron Jeffries
+🛑 "Don’t comment your mess. Refactor it." – Brian Kernighan’s golden rule
